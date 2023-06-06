@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug/CMakeFiles/16_Convertir_a_mayusculas_el_nombre_de_usuario.dir

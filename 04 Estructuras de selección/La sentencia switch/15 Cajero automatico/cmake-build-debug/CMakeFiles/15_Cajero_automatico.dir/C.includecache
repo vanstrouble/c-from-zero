@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/15 Cajero automatico/15 Cajero automático.c
+stdio.h
+-
+

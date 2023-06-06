@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/13 Cambiar un numero entero a romanos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/13 Cambiar un numero entero a romanos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/13 Cambiar un numero entero a romanos/cmake-build-debug/CMakeFiles/13_Cambiar_un_numero_entero_a_romanos.dir

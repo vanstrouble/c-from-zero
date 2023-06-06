@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/14 Invertir cadena diciendo los caracteres que tiene/14 Invertir cadena diciendo los caracteres que tiene.c
+stdio.h
+-
+string.h
+-
+

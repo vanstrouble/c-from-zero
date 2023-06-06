@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/04 Determinar si un numero es primo o no con punteros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/04 Determinar si un numero es primo o no con punteros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/04 Determinar si un numero es primo o no con punteros/cmake-build-debug/CMakeFiles/04_Determinar_si_un_numero_es_primo_o_no_con_punteros.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/07 Utilizar la funcion strcat/07 Utilizar la función strcat.c
+stdio.h
+-
+string.h
+-
+

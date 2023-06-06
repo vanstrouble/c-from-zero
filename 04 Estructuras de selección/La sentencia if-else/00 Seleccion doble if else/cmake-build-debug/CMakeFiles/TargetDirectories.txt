@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/00 Seleccion doble if else/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/00 Seleccion doble if else/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/00 Seleccion doble if else/cmake-build-debug/CMakeFiles/00_Seleccion_doble_if_else.dir

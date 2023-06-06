@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/15 Pasar una palabra a mayuscula con strupr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/15 Pasar una palabra a mayuscula con strupr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/15 Pasar una palabra a mayuscula con strupr/cmake-build-debug/CMakeFiles/15_Pasar_una_palabra_a_mayuscula_con_strupr.dir

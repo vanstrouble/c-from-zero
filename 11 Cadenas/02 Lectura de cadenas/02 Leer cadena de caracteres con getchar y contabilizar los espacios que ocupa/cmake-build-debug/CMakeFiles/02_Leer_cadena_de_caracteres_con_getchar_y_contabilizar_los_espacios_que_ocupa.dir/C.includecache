@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa/02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa.c
+stdio.h
+-
+stdlib.h
+-
+

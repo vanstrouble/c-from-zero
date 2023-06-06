@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/02 Media aritmetica de 2 numeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/02 Media aritmetica de 2 numeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/02 Media aritmetica de 2 numeros/cmake-build-debug/CMakeFiles/02_Media_aritmetica_de_2_numeros.dir

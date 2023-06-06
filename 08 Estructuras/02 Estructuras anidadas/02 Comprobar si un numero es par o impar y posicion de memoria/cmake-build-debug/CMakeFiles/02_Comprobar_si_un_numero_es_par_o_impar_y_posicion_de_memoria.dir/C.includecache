@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/02 Estructuras anidadas/02 Comprobar si un numero es par o impar y posicion de memoria/02 Comprobar si un número es par o impar y la posición de memoria.c
+stdio.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/05 Cerrar archivos con fclose"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/05 Cerrar archivos con fclose/cmake-build-debug

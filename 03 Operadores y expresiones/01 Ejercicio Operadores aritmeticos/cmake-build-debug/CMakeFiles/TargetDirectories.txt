@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Ejercicio Operadores aritmeticos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Ejercicio Operadores aritmeticos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Ejercicio Operadores aritmeticos/cmake-build-debug/CMakeFiles/Ejercicio_Operadores_aritmeticos.dir

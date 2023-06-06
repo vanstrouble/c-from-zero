@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/00 Punteros en C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/00 Punteros en C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/00 Punteros en C/cmake-build-debug/CMakeFiles/00_Punteros_en_C.dir

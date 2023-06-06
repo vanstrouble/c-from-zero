@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/02 Free/05 Liberar memoria con free/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/02 Free/05 Liberar memoria con free/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/02 Free/05 Liberar memoria con free/cmake-build-debug/CMakeFiles/05_Liberar_memoria_con_free.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/12 Agregar texto a un archivo txt/12 Agregar texto a un archivo txt.c
+stdio.h
+-
+

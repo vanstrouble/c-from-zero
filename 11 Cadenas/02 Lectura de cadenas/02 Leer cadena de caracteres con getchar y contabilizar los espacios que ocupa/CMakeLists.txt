@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(02_Leer_cadena_de_caracteres_con_getchar_y_contabilizar_los_espacios_que_ocupa C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(02_Leer_cadena_de_caracteres_con_getchar_y_contabilizar_los_espacios_que_ocupa "02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa.c")

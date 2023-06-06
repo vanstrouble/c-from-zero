@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/09 Sumar 2 matrices/09 Sumar 2 matrices.c
+stdio.h
+-
+

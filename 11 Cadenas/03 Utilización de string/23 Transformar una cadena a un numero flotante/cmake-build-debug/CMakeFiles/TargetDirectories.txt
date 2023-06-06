@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/23 Transformar una cadena a un numero flotante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/23 Transformar una cadena a un numero flotante/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/23 Transformar una cadena a un numero flotante/cmake-build-debug/CMakeFiles/23_Transformar_una_cadena_a_un_numero_flotante.dir

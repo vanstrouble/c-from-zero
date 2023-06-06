@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/03 Tarifa electrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/03 Tarifa electrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/03 Tarifa electrica/cmake-build-debug/CMakeFiles/03_Tarifa_electrica.dir

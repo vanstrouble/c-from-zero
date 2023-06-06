@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/07 Utilizar fputc para copiar texto en un archivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/07 Utilizar fputc para copiar texto en un archivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/07 Utilizar fputc para copiar texto en un archivo/cmake-build-debug/CMakeFiles/07_Utilizar_fputc_para_copiar_texto_en_un_archivo.dir

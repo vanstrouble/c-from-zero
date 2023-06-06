@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/03 Crear un archivo de texto (txt)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/03 Crear un archivo de texto (txt)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/03 Crear un archivo de texto (txt)/cmake-build-debug/CMakeFiles/03_Crear_un_archivo_de_texto__txt_.dir

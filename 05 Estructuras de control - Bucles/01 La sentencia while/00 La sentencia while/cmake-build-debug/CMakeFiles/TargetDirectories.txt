@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/00 La sentencia while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/00 La sentencia while/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/00 La sentencia while/cmake-build-debug/CMakeFiles/00_La_sentencia_while.dir

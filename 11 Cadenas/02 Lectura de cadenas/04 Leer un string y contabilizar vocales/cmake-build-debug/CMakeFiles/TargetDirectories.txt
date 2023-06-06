@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/04 Leer un string y contabilizar vocales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/04 Leer un string y contabilizar vocales/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/04 Leer un string y contabilizar vocales/cmake-build-debug/CMakeFiles/04_Leer_un_string_y_contabilizar_vocales.dir

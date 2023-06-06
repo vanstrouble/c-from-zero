@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/04 Intercambiar el contenido de los arrays/04 Intercambiar el contenido de los arrays.c
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/03 Imprimir el alfabeto en mayusculas con punteros/03 Imprimir el alfabeto en mayúsculas con punteros.c
+stdio.h
+-
+

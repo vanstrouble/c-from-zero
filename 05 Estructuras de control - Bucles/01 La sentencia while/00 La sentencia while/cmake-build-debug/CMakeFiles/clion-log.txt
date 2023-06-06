@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/00 La sentencia while"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/00 La sentencia while/cmake-build-debug

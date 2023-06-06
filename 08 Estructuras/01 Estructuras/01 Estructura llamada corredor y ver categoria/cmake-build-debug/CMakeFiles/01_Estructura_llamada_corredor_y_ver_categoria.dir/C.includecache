@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/01 Estructuras/01 Estructura llamada corredor y ver categoria/01 Estructura llamada corredor y ver categoría.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

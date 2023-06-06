@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/00 Uso de malloc en C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/00 Uso de malloc en C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/00 Uso de malloc en C/cmake-build-debug/CMakeFiles/00_Uso_de_malloc_en_C.dir

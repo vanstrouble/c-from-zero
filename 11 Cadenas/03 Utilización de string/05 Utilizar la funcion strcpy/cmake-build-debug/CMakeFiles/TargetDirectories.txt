@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/05 Utilizar la funcion strcpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/05 Utilizar la funcion strcpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/05 Utilizar la funcion strcpy/cmake-build-debug/CMakeFiles/05_Utilizar_la_funcion_strcpy.dir

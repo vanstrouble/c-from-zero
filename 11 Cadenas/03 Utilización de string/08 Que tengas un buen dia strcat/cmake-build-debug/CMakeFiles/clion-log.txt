@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/08 Que tengas un buen dia strcat"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/08 Que tengas un buen dia strcat/cmake-build-debug

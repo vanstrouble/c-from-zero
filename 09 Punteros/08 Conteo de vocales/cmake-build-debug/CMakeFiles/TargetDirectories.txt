@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/08 Conteo de vocales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/08 Conteo de vocales/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/08 Conteo de vocales/cmake-build-debug/CMakeFiles/08_Conteo_de_vocales.dir

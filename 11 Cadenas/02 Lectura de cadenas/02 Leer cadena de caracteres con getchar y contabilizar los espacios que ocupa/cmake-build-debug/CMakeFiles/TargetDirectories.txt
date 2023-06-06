@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/02 Lectura de cadenas/02 Leer cadena de caracteres con getchar y contabilizar los espacios que ocupa/cmake-build-debug/CMakeFiles/02_Leer_cadena_de_caracteres_con_getchar_y_contabilizar_los_espacios_que_ocupa.dir

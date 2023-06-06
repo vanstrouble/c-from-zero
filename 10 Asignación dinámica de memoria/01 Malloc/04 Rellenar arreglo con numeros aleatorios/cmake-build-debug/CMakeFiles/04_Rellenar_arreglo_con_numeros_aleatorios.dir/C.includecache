@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/04 Rellenar arreglo con numeros aleatorios/04 Rellenar un arreglo con números aleatorios.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+time.h
+-
+

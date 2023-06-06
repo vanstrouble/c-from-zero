@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Expresiones_Condicionales_El_operador" targetName="Expresiones_Condicionales_El_operador" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7ae231d-4b46-4a1d-9e10-3052b74de96a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aGOZQouQUsnf10MY4igFEGwzns" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Expresiones_Condicionales_El_operador" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Expresiones_Condicionales_El_operador" TARGET_NAME="Expresiones_Condicionales_El_operador" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Expresiones_Condicionales_El_operador" RUN_TARGET_NAME="Expresiones_Condicionales_El_operador">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ae231d-4b46-4a1d-9e10-3052b74de96a" name="Default Changelist" comment="" />
+      <created>1586358518887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586358518887</updated>
+      <workItem from="1586358520100" duration="452000" />
+      <workItem from="1586359144816" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="678" height="220" key="GridCell.Tab.0.bottom" timestamp="1586359158904">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1586359158904" />
+    <state width="678" height="220" key="GridCell.Tab.0.center" timestamp="1586359158903">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1586359158903" />
+    <state width="678" height="220" key="GridCell.Tab.0.left" timestamp="1586359158903">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1586359158903" />
+    <state width="678" height="220" key="GridCell.Tab.0.right" timestamp="1586359158904">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1586359158904" />
+  </component>
+</project>

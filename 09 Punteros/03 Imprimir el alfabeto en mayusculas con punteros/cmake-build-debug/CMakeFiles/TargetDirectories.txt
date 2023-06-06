@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/03 Imprimir el alfabeto en mayusculas con punteros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/03 Imprimir el alfabeto en mayusculas con punteros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/03 Imprimir el alfabeto en mayusculas con punteros/cmake-build-debug/CMakeFiles/03_Imprimir_el_alfabeto_en_mayusculas_con_punteros.dir

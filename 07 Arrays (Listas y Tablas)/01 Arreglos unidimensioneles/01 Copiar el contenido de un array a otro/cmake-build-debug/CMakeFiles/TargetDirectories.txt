@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/01 Copiar el contenido de un array a otro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/01 Copiar el contenido de un array a otro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/01 Copiar el contenido de un array a otro/cmake-build-debug/CMakeFiles/01_Copiar_el_contenido_de_un_array_a_otro.dir

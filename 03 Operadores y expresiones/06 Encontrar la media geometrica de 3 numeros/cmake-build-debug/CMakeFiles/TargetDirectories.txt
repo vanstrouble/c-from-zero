@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/Encontrar la media geometrica de 3 numeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/Encontrar la media geometrica de 3 numeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/Encontrar la media geometrica de 3 numeros/cmake-build-debug/CMakeFiles/Encontrar_la_media_geometrica_de_3_numeros.dir

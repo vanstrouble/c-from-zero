@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/08 Que tengas un buen dia strcat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/08 Que tengas un buen dia strcat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/08 Que tengas un buen dia strcat/cmake-build-debug/CMakeFiles/08_Que_tengas_un_buen_dia_strcat.dir

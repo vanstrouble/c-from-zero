@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/01 Usar malloc para reservar memoria para un nombre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/01 Usar malloc para reservar memoria para un nombre/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/01 Usar malloc para reservar memoria para un nombre/cmake-build-debug/CMakeFiles/01_Usar_malloc_para_reservar_memoria_para_un_nombre.dir

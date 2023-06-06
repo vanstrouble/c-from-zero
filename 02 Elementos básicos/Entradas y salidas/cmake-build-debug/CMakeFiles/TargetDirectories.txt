@@ -1,0 +1,3 @@
+/Users/pedrovazquez/Desktop/Udemy/Entradas y salidas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/Desktop/Udemy/Entradas y salidas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/Desktop/Udemy/Entradas y salidas/cmake-build-debug/CMakeFiles/Entradas_y_salidas.dir

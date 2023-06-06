@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/01 Comprobar si un alumno esta aprobado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/01 Comprobar si un alumno esta aprobado/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if/01 Comprobar si un alumno esta aprobado/cmake-build-debug/CMakeFiles/01_Comprobar_si_un_alumno_esta_aprobado.dir

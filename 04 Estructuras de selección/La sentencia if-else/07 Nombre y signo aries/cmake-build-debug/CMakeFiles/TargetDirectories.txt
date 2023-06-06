@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/07 Nombre y signo aries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/07 Nombre y signo aries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia if-else/07 Nombre y signo aries/cmake-build-debug/CMakeFiles/07_Nombre_y_signo_aries.dir

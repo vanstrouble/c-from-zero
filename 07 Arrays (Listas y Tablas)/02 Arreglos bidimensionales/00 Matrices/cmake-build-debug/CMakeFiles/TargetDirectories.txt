@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/00 Matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/00 Matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/00 Matrices/cmake-build-debug/CMakeFiles/00_Matrices.dir

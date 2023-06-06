@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Horas trabajadas de una persona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Horas trabajadas de una persona/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Horas trabajadas de una persona/cmake-build-debug/CMakeFiles/Horas_trabajadas_de_una_persona.dir

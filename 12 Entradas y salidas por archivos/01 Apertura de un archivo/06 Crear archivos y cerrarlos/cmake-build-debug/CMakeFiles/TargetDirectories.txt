@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/06 Crear archivos y cerrarlos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/06 Crear archivos y cerrarlos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/01 Apertura de un archivo/06 Crear archivos y cerrarlos/cmake-build-debug/CMakeFiles/06_Crear_archivos_y_cerrarlos.dir

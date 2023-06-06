@@ -1,0 +1,10 @@
+	.:Directorio Telefonico:.
+
+
+Nombre: Pedro Antonio
+Apellidos: Vázquez González
+Celular: 4181499911
+
+Nombre: Aideé Berenice
+Apellidos: Correa Villegas
+Celular: 4181327878

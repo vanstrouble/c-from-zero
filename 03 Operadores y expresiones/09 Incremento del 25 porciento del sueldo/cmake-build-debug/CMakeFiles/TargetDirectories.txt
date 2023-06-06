@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/Incremento del 25 porciento del sueldo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/Incremento del 25 porciento del sueldo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/Incremento del 25 porciento del sueldo/cmake-build-debug/CMakeFiles/Incremento_del_25_porciento_del_sueldo.dir

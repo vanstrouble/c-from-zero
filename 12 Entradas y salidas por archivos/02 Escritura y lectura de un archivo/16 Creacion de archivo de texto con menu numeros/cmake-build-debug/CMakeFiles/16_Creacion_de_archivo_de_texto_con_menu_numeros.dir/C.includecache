@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/02 Escritura y lectura de un archivo/16 Creacion de archivo de texto con menu numeros/16 Creación de archivo de texto con menu números.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

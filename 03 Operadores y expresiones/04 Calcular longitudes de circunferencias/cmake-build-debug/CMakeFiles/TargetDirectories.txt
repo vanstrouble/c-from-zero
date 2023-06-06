@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Calcular longitudes de circunferencias/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Calcular longitudes de circunferencias/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Calcular longitudes de circunferencias/cmake-build-debug/CMakeFiles/Calcular_longitudes_de_circunferencias.dir

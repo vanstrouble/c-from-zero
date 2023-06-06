@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Operaciones basicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Operaciones basicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Operaciones basicas/cmake-build-debug/CMakeFiles/Operaciones_basicas.dir

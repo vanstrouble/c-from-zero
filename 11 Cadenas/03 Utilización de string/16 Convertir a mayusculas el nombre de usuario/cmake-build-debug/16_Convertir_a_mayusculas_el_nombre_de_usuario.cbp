@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="16_Convertir_a_mayusculas_el_nombre_de_usuario"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="16_Convertir_a_mayusculas_el_nombre_de_usuario">
+				<Option output="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug/16_Convertir_a_mayusculas_el_nombre_de_usuario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 16_Convertir_a_mayusculas_el_nombre_de_usuario"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="16_Convertir_a_mayusculas_el_nombre_de_usuario/fast">
+				<Option output="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug/16_Convertir_a_mayusculas_el_nombre_de_usuario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 16_Convertir_a_mayusculas_el_nombre_de_usuario/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/CLionProjects/Udemy/11\ Cadenas/03\ Utilización\ de\ string/16\ Convertir\ a\ mayusculas\ el\ nombre\ de\ usuario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/16 Convertir a mayúsculas el nombre de usuario.c">
+			<Option target="16_Convertir_a_mayusculas_el_nombre_de_usuario"/>
+		</Unit>
+		<Unit filename="/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/16 Convertir a mayusculas el nombre de usuario/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

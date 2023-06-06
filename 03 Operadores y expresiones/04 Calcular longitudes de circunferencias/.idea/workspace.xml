@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Calcular_longitudes_de_circunferencias" targetName="Calcular_longitudes_de_circunferencias" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c69e0457-63b4-461e-876a-5d91d7b9dc05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno--Wformat" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Y3aIq2kIiGxCW2JZMxvEDfkcks" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calcular_longitudes_de_circunferencias" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Calcular_longitudes_de_circunferencias" TARGET_NAME="Calcular_longitudes_de_circunferencias" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Calcular_longitudes_de_circunferencias" RUN_TARGET_NAME="Calcular_longitudes_de_circunferencias">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69e0457-63b4-461e-876a-5d91d7b9dc05" name="Default Changelist" comment="" />
+      <created>1582173654212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582173654212</updated>
+      <workItem from="1582173655572" duration="1409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="678" height="220" key="GridCell.Tab.0.bottom" timestamp="1582175117724">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1582175117724" />
+    <state width="678" height="220" key="GridCell.Tab.0.center" timestamp="1582175117723">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1582175117723" />
+    <state width="678" height="220" key="GridCell.Tab.0.left" timestamp="1582175117723">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1582175117723" />
+    <state width="678" height="220" key="GridCell.Tab.0.right" timestamp="1582175117724">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="678" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1582175117724" />
+  </component>
+</project>

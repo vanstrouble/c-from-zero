@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="08_Crear_un_archivo_y_editarlo" targetName="08_Crear_un_archivo_y_editarlo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d4c632-b48f-42e7-bd90-59a5119639fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1e3H4qF01ACiroatD35jrKNUonD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="08_Crear_un_archivo_y_editarlo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="08_Crear_un_archivo_y_editarlo" TARGET_NAME="08_Crear_un_archivo_y_editarlo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="08_Crear_un_archivo_y_editarlo" RUN_TARGET_NAME="08_Crear_un_archivo_y_editarlo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d4c632-b48f-42e7-bd90-59a5119639fd" name="Default Changelist" comment="" />
+      <created>1593543167529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593543167529</updated>
+      <workItem from="1593543169020" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="399" key="GridCell.Tab.0.bottom" timestamp="1593543511735">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.bottom/0.23.2560.1389@0.23.2560.1389" timestamp="1593543511735" />
+    <state width="1238" height="399" key="GridCell.Tab.0.center" timestamp="1593543511734">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.center/0.23.2560.1389@0.23.2560.1389" timestamp="1593543511734" />
+    <state width="1238" height="399" key="GridCell.Tab.0.left" timestamp="1593543511734">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.left/0.23.2560.1389@0.23.2560.1389" timestamp="1593543511734" />
+    <state width="1238" height="399" key="GridCell.Tab.0.right" timestamp="1593543511735">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.right/0.23.2560.1389@0.23.2560.1389" timestamp="1593543511735" />
+  </component>
+</project>

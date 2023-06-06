@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/09 Determinar si un numero es primo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/09 Determinar si un numero es primo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/09 Determinar si un numero es primo/cmake-build-debug/CMakeFiles/09_Determinar_si_un_numero_es_primo.dir

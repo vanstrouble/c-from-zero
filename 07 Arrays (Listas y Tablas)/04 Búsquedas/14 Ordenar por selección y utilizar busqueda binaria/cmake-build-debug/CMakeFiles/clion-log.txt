@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/04 Búsquedas/14 Ordenar por selección y utilizar busqueda binaria"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/04 Búsquedas/14 Ordenar por selección y utilizar busqueda binaria/cmake-build-debug

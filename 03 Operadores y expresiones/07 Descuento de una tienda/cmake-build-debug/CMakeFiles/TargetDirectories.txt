@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Descuento de una tienda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Descuento de una tienda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Descuento de una tienda/cmake-build-debug/CMakeFiles/Descuento_de_una_tienda.dir

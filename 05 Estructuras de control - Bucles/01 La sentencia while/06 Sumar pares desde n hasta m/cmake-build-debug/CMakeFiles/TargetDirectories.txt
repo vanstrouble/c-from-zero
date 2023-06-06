@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/06 Sumar pares desde n hasta m/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/06 Sumar pares desde n hasta m/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/06 Sumar pares desde n hasta m/cmake-build-debug/CMakeFiles/06_Sumar_pares_desde_n_hasta_m.dir

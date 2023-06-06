@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/Ordenamiento por Seleccion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/Ordenamiento por Seleccion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/Ordenamiento por Seleccion/cmake-build-debug/CMakeFiles/Ordenamiento_por_Seleccion.dir

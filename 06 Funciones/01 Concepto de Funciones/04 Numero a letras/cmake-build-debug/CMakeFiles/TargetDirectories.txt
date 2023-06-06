@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/04 Numero a letras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/04 Numero a letras/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/04 Numero a letras/cmake-build-debug/CMakeFiles/04_Numero_a_letras.dir

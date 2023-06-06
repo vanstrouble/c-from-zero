@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" targetName="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1f618ee-7fc6-4663-b6bf-cbf49cd742b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cmMfqAYy5pykcQsG8Q1yzkn5eA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" TARGET_NAME="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe" RUN_TARGET_NAME="11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f618ee-7fc6-4663-b6bf-cbf49cd742b0" name="Default Changelist" comment="" />
+      <created>1591129421314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591129421314</updated>
+      <workItem from="1591129423082" duration="927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="399" key="GridCell.Tab.0.bottom" timestamp="1591130382088">
+      <screen x="0" y="23" width="2560" height="1388" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.bottom/0.23.2560.1388@0.23.2560.1388" timestamp="1591130382088" />
+    <state width="1238" height="399" key="GridCell.Tab.0.center" timestamp="1591130382086">
+      <screen x="0" y="23" width="2560" height="1388" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.center/0.23.2560.1388@0.23.2560.1388" timestamp="1591130382086" />
+    <state width="1238" height="399" key="GridCell.Tab.0.left" timestamp="1591130382085">
+      <screen x="0" y="23" width="2560" height="1388" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.left/0.23.2560.1388@0.23.2560.1388" timestamp="1591130382085" />
+    <state width="1238" height="399" key="GridCell.Tab.0.right" timestamp="1591130382087">
+      <screen x="0" y="23" width="2560" height="1388" />
+    </state>
+    <state width="1238" height="399" key="GridCell.Tab.0.right/0.23.2560.1388@0.23.2560.1388" timestamp="1591130382087" />
+  </component>
+</project>

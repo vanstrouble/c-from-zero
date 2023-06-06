@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/03 Operadores y expresiones/10 Calificacion final de la materia de algoritmos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/03 Operadores y expresiones/10 Calificacion final de la materia de algoritmos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/03 Operadores y expresiones/10 Calificacion final de la materia de algoritmos/cmake-build-debug/CMakeFiles/Calificacion_final_de_la_materia_de_algoritmos.dir

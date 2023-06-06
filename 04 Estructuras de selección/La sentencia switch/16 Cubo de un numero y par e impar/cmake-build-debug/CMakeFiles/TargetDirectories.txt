@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/16 Cubo de un numero y par e impar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/16 Cubo de un numero y par e impar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/04 Estructuras de selección/La sentencia switch/16 Cubo de un numero y par e impar/cmake-build-debug/CMakeFiles/16_Cubo_de_un_numero_y_par_e_impar.dir

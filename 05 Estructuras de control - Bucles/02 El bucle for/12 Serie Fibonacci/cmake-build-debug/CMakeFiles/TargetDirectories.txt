@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/12 Serie Fibonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/12 Serie Fibonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/02 El bucle for/12 Serie Fibonacci/cmake-build-debug/CMakeFiles/12_Serie_Fibonacci.dir

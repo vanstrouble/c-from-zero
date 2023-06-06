@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/03 Recursividad/02 Numeros de n hasta 1 Recursividad/02 Números de n hasta 1 Recursividad.c
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/11 Utilizar busqueda secuencial para determinar si un numero existe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/11 Utilizar busqueda secuencial para determinar si un numero existe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/03 Ordenamientos/11 Utilizar busqueda secuencial para determinar si un numero existe/cmake-build-debug/CMakeFiles/11_Utilizar_busqueda_secuencial_para_determinar_si_un_numero_existe.dir

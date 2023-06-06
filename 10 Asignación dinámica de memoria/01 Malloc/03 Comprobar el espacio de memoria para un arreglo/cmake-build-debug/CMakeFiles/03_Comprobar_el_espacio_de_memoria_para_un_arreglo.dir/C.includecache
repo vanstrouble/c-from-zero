@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/03 Comprobar el espacio de memoria para un arreglo/03 Comprobar el espacio de memoria para un arreglo.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

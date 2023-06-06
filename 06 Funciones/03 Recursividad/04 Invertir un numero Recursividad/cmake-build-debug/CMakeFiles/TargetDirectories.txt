@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/03 Recursividad/04 Invertir un numero Recursividad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/03 Recursividad/04 Invertir un numero Recursividad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/03 Recursividad/04 Invertir un numero Recursividad/cmake-build-debug/CMakeFiles/04_Invertir_un_numero_Recursividad.dir

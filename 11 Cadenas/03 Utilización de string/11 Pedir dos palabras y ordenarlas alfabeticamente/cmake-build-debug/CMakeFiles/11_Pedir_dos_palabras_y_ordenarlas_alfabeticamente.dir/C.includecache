@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/11 Pedir dos palabras y ordenarlas alfabeticamente/11 Pedir dos palabras y ordenarlas alfabéticamente.c
+stdio.h
+-
+string.h
+-
+

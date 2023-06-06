@@ -1,0 +1,13 @@
+	Directorio de Email
+
+Nombre: Pedro Antonio
+Apellidos: Vázquez González
+Email: pedrovqz69@gmail.com
+
+Nombre: Aideé Berenice
+Apellidos: Correa Villegas
+Email: aidee.cov@gmail.com
+
+Nombre: Ma. Belén
+Apellidos: GOnzález Cruz
+Email: gonzalezb1701@gmail.com

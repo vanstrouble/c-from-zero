@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/08 Ordenar 3 numeros descendentes con funcion/08 Ordenar 3 números descendentes con función.c
+stdio.h
+-
+

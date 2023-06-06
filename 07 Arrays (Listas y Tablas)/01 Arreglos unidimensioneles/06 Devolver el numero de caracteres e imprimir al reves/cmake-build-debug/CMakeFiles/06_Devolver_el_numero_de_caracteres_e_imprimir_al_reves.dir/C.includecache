@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/06 Devolver el numero de caracteres e imprimir al reves/06 Devolver el número de caracteres e imprimirla al revés.c
+stdio.h
+-
+string.h
+-
+

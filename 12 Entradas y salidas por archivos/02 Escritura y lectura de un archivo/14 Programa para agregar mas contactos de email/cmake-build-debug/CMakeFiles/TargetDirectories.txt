@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/02 Escritura y lectura de un archivo/14 Programa para agregar mas contactos de email/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/02 Escritura y lectura de un archivo/14 Programa para agregar mas contactos de email/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/12 Entradas y salidas por archivos/02 Escritura y lectura de un archivo/14 Programa para agregar mas contactos de email/cmake-build-debug/CMakeFiles/14_Programa_para_agregar_mas_contactos_de_email.dir

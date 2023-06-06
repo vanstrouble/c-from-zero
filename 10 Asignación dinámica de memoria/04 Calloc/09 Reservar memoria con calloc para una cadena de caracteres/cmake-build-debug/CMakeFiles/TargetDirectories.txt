@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/04 Calloc/09 Reservar memoria con calloc para una cadena de caracteres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/04 Calloc/09 Reservar memoria con calloc para una cadena de caracteres/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/04 Calloc/09 Reservar memoria con calloc para una cadena de caracteres/cmake-build-debug/CMakeFiles/09_Reservar_memoria_con_calloc_para_una_cadena_de_caracteres.dir

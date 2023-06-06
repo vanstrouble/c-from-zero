@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/01 Arreglos unidimensioneles/05 Contabilizar el genero de N estudiantes/05 Contabilizar el género de N estudiantes.c
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Directivas del procesador y variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Directivas del procesador y variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Directivas del procesador y variables/cmake-build-debug/CMakeFiles/Directivas_del_procesador_y_variables.dir

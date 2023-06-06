@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/01 Malloc/00 Uso de malloc en C/00 Uso de malloc.c
+stdio.h
+-
+stdlib.h
+-
+

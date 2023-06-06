@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/02 Multiplicacion y suma de numeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/02 Multiplicacion y suma de numeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/05 Estructuras de control - Bucles/01 La sentencia while/02 Multiplicacion y suma de numeros/cmake-build-debug/CMakeFiles/02_Multiplicacion_y_suma_de_numeros.dir

@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/03 Procedimientos para sumar restar multiplicar y dividir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/03 Procedimientos para sumar restar multiplicar y dividir/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/01 Concepto de Funciones/03 Procedimientos para sumar restar multiplicar y dividir/cmake-build-debug/CMakeFiles/03_Procedimientos_para_sumar_restar_multiplicar_y_dividir.dir

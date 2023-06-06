@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/02 Comprobar si un numero es par o impar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/02 Comprobar si un numero es par o impar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/02 Comprobar si un numero es par o impar/cmake-build-debug/CMakeFiles/02_Comprobar_si_un_numero_es_par_o_impar.dir

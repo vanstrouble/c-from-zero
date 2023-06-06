@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Convertidor de grados C a F/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Convertidor de grados C a F/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Convertidor de grados C a F/cmake-build-debug/CMakeFiles/Convertidor_de_grados_C_a_F.dir

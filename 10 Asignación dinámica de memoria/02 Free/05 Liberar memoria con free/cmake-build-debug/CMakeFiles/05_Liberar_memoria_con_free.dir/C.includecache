@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/02 Free/05 Liberar memoria con free/05 Liberar memoria con free.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

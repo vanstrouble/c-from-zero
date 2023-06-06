@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/10 Asignación dinámica de memoria/02 Free/06 Liberar memoria de una cadena de caracteres/06 Liberar memoria de una cadena de caracteres.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/02 Estructuras anidadas/05 Hacer 2 estructuras alumno y promedio/main.c
+stdio.h
+-
+stdlib.h
+-
+

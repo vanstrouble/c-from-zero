@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/06 Copiar el contenido de un array a otro x usuario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/06 Copiar el contenido de un array a otro x usuario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/06 Copiar el contenido de un array a otro x usuario/cmake-build-debug/CMakeFiles/06_Copiar_el_contenido_de_un_array_a_otro_x_usuario.dir

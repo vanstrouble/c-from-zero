@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/19 Determinar si una palabra es capicua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/19 Determinar si una palabra es capicua/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/11 Cadenas/03 Utilización de string/19 Determinar si una palabra es capicua/cmake-build-debug/CMakeFiles/19_Determinar_si_una_palabra_es_capicua.dir

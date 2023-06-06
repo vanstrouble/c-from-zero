@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/02 Funciones numéricas/01 Funciones matematicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/02 Funciones numéricas/01 Funciones matematicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/06 Funciones/02 Funciones numéricas/01 Funciones matematicas/cmake-build-debug/CMakeFiles/01_Funciones_matematicas.dir

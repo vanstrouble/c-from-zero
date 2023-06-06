@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/02 Elementos básicos/Apuntes Operador de asignacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/02 Elementos básicos/Apuntes Operador de asignacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/02 Elementos básicos/Apuntes Operador de asignacion/cmake-build-debug/CMakeFiles/Operador_de_asignacion.dir

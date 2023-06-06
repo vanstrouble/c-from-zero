@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/07 Hacer una matriz pidiendo el numero de filas y columnas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/07 Hacer una matriz pidiendo el numero de filas y columnas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/07 Arrays (Listas y Tablas)/02 Arreglos bidimensionales/07 Hacer una matriz pidiendo el numero de filas y columnas/cmake-build-debug/CMakeFiles/07_Hacer_una_matriz_pidiendo_el_numero_de_filas_y_columnas.dir

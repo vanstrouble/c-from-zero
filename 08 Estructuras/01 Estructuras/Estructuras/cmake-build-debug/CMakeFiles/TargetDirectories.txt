@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/01 Estructuras/Estructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/01 Estructuras/Estructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/08 Estructuras/01 Estructuras/Estructuras/cmake-build-debug/CMakeFiles/Estructuras.dir

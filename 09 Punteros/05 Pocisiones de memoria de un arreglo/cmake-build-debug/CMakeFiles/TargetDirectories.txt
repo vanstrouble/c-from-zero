@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/05 Pocisiones de memoria de un arreglo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/05 Pocisiones de memoria de un arreglo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Udemy/09 Punteros/05 Pocisiones de memoria de un arreglo/cmake-build-debug/CMakeFiles/05_Pocisiones_de_memoria_de_un_arreglo.dir

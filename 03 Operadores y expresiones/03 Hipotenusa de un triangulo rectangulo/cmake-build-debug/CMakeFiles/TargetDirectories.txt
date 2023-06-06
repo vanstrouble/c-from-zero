@@ -1,0 +1,3 @@
+/Users/pedrovazquez/CLionProjects/Hipotenusa de un triangulo rectangulo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/CLionProjects/Hipotenusa de un triangulo rectangulo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/CLionProjects/Hipotenusa de un triangulo rectangulo/cmake-build-debug/CMakeFiles/Hipotenusa_de_un_triangulo_rectangulo.dir
