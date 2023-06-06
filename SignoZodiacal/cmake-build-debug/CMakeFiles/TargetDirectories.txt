@@ -1,0 +1,3 @@
+/Users/pedrovazquezg/OneDrive - Universidad de Guanajuato/Universidad/UG/04 Cursos/Mastermind/Curso de C/SignoZodiacal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquezg/OneDrive - Universidad de Guanajuato/Universidad/UG/04 Cursos/Mastermind/Curso de C/SignoZodiacal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquezg/OneDrive - Universidad de Guanajuato/Universidad/UG/04 Cursos/Mastermind/Curso de C/SignoZodiacal/cmake-build-debug/CMakeFiles/SignoZodiacal.dir

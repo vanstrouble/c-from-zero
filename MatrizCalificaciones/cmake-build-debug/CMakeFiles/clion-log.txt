@@ -1,0 +1,15 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/pedrovazquezg/OneDrive - Universidad de Guanajuato/Universidad/UG/04 Cursos/Mastermind/Curso de C/MatrizCalificaciones"
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/Platform/Darwin-Initialize.cmake:286 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pedrovazquezg/OneDrive - Universidad de Guanajuato/Universidad/UG/04 Cursos/Mastermind/Curso de C/MatrizCalificaciones/cmake-build-debug
